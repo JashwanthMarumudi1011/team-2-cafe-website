@@ -1,0 +1,90 @@
+ body {
+            font-family: Arial;
+            margin: 0;
+            text-align: center;
+            background-color:  #45191b;
+        }
+        #first{
+            color: rgb(234, 234, 238);
+            font-family: 'Times New Roman', Times, serif;
+        }
+        
+
+
+        #main-heading {
+            background-color: #fde0b4;
+            font-family: 'Times New Roman', Times, serif;
+            color: rgb(0, 0, 0);
+        }
+        .section {
+            background-color: #fde0b4;
+            margin: 20px;
+            border: 2px solid #000000;
+        }
+
+        .menu table {
+            width: 80%;
+            margin: auto;
+            border-collapse: collapse;
+        }
+
+        table, th, td {
+            border: 1px solid black;
+        }
+        .section {
+            background-color: white;
+            margin: 20px;
+            border: 2px solid #000000;
+        }
+         button {
+            background-color: #d62828;
+            color: white;
+            border: none;
+        }
+          button:hover {
+            background-color: #780000;
+        }
+         a:hover {
+            color: yellow;
+        }
+           a {
+            color: rgb(0, 0, 0);
+            text-decoration: none;
+            margin: 15px;
+        }
+          th {
+            background-color: #ffc300;
+        }
+        #music{
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #location{
+            font-family: 'Times New Roman', Times, serif;
+        }
+        #now{
+         font-family: 'Times New Roman', Times, serif;
+        }
+          #our{
+         font-family: 'Times New Roman', Times, serif;
+        }
+          #offer{
+         font-family: 'Times New Roman', Times, serif;
+        }
+          #today{
+         font-family: 'Times New Roman', Times, serif;
+        }
+          #tomorrow{
+         font-family: 'Times New Roman', Times, serif;
+        }
+          #popular{
+         font-family: 'Times New Roman', Times, serif;
+        }
+          #top{
+         font-family: 'Times New Roman', Times, serif;
+        }
+        #footer{
+            background-color: #fde0b4;
+        }
+        #dishes{
+            font-family: 'Times New Roman', Times, serif;
+        }
